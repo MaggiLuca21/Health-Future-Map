@@ -32,5 +32,7 @@ FUNZIONI
 - Copia fisica locale dei PDF se viene concesso il consenso iniziale.
 - Interfaccia adattiva: i pulsanti Videocall e App Cerotto si dispongono accanto alla navigazione o vanno a capo sotto il logo in base allo spazio disponibile.
 
+LINK VIDEO SPIEGAZIONE GOOGLE DRIVE
+https://drive.google.com/file/d/1igSK3B9X9hzXm3oK0vt4i1-nlywHzxl6/view?usp=sharing
 NOTA
 Le firme genetiche incluse nel progetto sono artificiali e dimostrative. I colori non sono diagnosi, non stimano una probabilità individuale e non indicano una prognosi. Il progetto non sostituisce il parere di un medico.
